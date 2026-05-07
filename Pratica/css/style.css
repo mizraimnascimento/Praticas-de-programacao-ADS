@@ -1,0 +1,62 @@
+<style>
+
+            body{ 
+                background-color: rgb(255, 237, 71);
+                margin: 0
+                                
+            }
+            h1, h2{
+                color: green;
+                text-align: center;
+            }
+            h1{
+                text-transform: :uppercase;
+            }
+            
+            p{
+                text-align: justify; 
+                color: black;
+            }
+
+            .destaque{
+                background-color: green;
+                color:rgb(255, 255, 255);
+                padding-left: 20px;
+                margin-bottom: 100px;
+                font-weight: bold;
+                border: 2px solid rgb(0, 0, 0);
+                padding: 2px;                
+            }
+
+            nav{
+                float: right;
+            }
+
+            header{
+                background-color: gray;
+            }
+
+            #img-logo{
+                width: 100px;
+            }
+
+            main{
+                margin: auto 20%;
+                background-color: rgb(255, 237, 71);            
+            }
+            
+        
+            nav li{
+                display: inline;
+                margin-left: 20px;
+                color: rgb(0, 0, 0);
+                font-weight: bold;
+                border: 2px solid;
+                padding: 5px ;
+                
+             }
+                 
+
+
+
+        </style>
